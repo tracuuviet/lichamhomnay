@@ -1,6 +1,7 @@
-#Lịch âm - Nguồn gốc, đặc điểm và ứng dụng trong đời sống
+Lịch âm - Nguồn gốc, đặc điểm và ứng dụng trong đời sống
 
 Lịch âm là một hệ thống lịch được xây dựng dựa trên chu kỳ của Mặt Trăng. So với lịch dương lịch dựa trên chuyển động của Mặt Trời và quỹ đạo của Trái Đất, lịch âm có một số đặc điểm riêng biệt. Trong suốt lịch sử, lịch âm đã được sử dụng rộng rãi ở nhiều nền văn hóa Đông Á như Trung Quốc, Việt Nam, Triều Tiên, Nhật Bản. Ngày nay, mặc dù lịch dương lịch đã trở thành tiêu chuẩn phổ biến toàn cầu, lịch âm vẫn còn ảnh hưởng lớn trong đời sống tinh thần và văn hóa của người Đông Á.
+
 
 Nguồn gốc của lịch âm
 Lịch âm có nguồn gốc từ Trung Quốc cổ đại. Theo các nhà khảo cổ, lịch âm đã xuất hiện ở Trung Quốc từ thời kỳ nhà Thương (khoảng 1600 - 1046 TCN). Ban đầu, người Trung Quốc cổ đại sử dụng lịch âm để theo dõi các nghi lễ, lễ hội dựa trên chu kỳ của Mặt Trăng. Đến thời kỳ Xuân Thu Chiến Quốc (772 - 221 TCN), lịch âm dần trở thành công cụ chính thức để đo lường và ghi chép thời gian.
@@ -13,6 +14,7 @@ Có hai loại lịch âm chính được sử dụng trong lịch sử:
 
 Ở Việt Nam, lịch âm được hình thành trên cơ sở kế thừa lịch âm Trung Quốc kết hợp với điều kiện thực tế của Việt Nam. Người Việt sử dụng chung một hệ thống âm dương lịch giống như Trung Quốc và các nước Đông Á khác.
 
+
 Đặc điểm của lịch âm
 
 Lịch âm có một số đặc điểm riêng biệt so với lịch dương lịch:
@@ -24,6 +26,7 @@ Lịch âm có một số đặc điểm riêng biệt so với lịch dương l
 - Tháng ngày không cố định: Các tháng trong năm âm có thể là 29 hoặc 30 ngày. Tháng thiếu sẽ có 29 ngày còn tháng đủ có 30 ngày.
 
 - Năm âm và năm dương không trùng nhau: Năm âm ngắn hơn so với năm dương khoảng 11 ngày. Do vậy, mỗi năm người ta cần bổ sung thêm một tháng nhuận để điều chỉnh cho 2 lịch trùng nhau.
+
 
 Ứng dụng của lịch âm 
 
