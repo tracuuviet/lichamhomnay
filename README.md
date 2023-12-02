@@ -41,3 +41,5 @@ Dù không còn là hệ thống lịch chính thức nhưng lịch âm vẫn đ
 - Theo dõi mùa vụ nông nghiệp: mặc dù đã chuyển sang sử dụng lịch dương, nhiều người nông dân Việt Nam vẫn quan sát lịch âm để biết thời điểm gieo trồng và thu hoạch cho phù hợp.
 
 Như vậy, dù không còn được dùng làm lịch chính thức, lịch âm vẫn có những giá trị riêng mà văn hóa phương Tây khó có thể thay thế được. Đây chính là nét đặc trưng văn hóa tinh thần độc đáo của người Việt cũng như các dân tộc Đông Á khác.
+
+Source: [Lịch âm hôm nay](https://www.xemlicham.com/)https://www.xemlicham.com/
