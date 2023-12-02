@@ -42,4 +42,6 @@ Dù không còn là hệ thống lịch chính thức nhưng lịch âm vẫn đ
 
 Như vậy, dù không còn được dùng làm lịch chính thức, lịch âm vẫn có những giá trị riêng mà văn hóa phương Tây khó có thể thay thế được. Đây chính là nét đặc trưng văn hóa tinh thần độc đáo của người Việt cũng như các dân tộc Đông Á khác.
 
-Source: [Lịch âm hôm nay](https://www.xemlicham.com/)
+Tham khảo thêm tại đây: 
+- [Lịch âm hôm nay](https://www.xemlicham.com/)
+- [Lịch âm năm 2024](https://www.xemlicham.com/am-lich/nam/2024)
