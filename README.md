@@ -1,4 +1,4 @@
-Lịch âm - Nguồn gốc, đặc điểm và ứng dụng trong đời sống
+#Lịch âm - Nguồn gốc, đặc điểm và ứng dụng trong đời sống
 
 Lịch âm là một hệ thống lịch được xây dựng dựa trên chu kỳ của Mặt Trăng. So với lịch dương lịch dựa trên chuyển động của Mặt Trời và quỹ đạo của Trái Đất, lịch âm có một số đặc điểm riêng biệt. Trong suốt lịch sử, lịch âm đã được sử dụng rộng rãi ở nhiều nền văn hóa Đông Á như Trung Quốc, Việt Nam, Triều Tiên, Nhật Bản. Ngày nay, mặc dù lịch dương lịch đã trở thành tiêu chuẩn phổ biến toàn cầu, lịch âm vẫn còn ảnh hưởng lớn trong đời sống tinh thần và văn hóa của người Đông Á.
 
